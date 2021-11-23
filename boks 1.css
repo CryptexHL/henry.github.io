@@ -1,0 +1,36 @@
+#boks {
+    height: auto;
+    width: 250px;
+}
+#boks p {
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+    padding: 10px 15px;
+    margin: 0;
+}
+#t {
+    width:248px;
+    height: 30px;
+    border: 1px solid #97c9b5   ;
+    background-color: aquamarine;
+}
+#t h3 {
+    margin: 0;
+}
+
+#bunn {
+    width: 248px;
+    height: 10px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: none;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #333;
+    border-right-color: #333;
+    border-bottom-color: #333;
+    border-left-color: #333; 
+ }
